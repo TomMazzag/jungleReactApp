@@ -8,7 +8,7 @@ function Banner() {
         <div className='jh-banner'>
             <img src={logo} alt='Jungle House' className='jh-logo' />
             <h1 className='jh-title'>{title}</h1>
-            
+            <Recommendaiton />
         </div>
     )
 }
