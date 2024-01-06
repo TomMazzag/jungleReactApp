@@ -20,7 +20,8 @@ export const plantList = [
 	{
 		name: 'yucca',
 		category: 'classic',
-		id: '4kk'
+		id: '4kk',
+		water: 2
 	},
 	{
 		name: 'olive tree',
