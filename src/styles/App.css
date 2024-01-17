@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.jh-cart {
+	color: white;
+	background-color: #31b572;
+	padding: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.jh-layout {
+	display: flex;
+	flex-direction: row;
+}
